@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speeches of the Kings Most Excellent Majesty in this great court of Parliament with all the speeches of the right honourable the Lord Digby and the Lord Faukeland and the speeches of Sir Benjamin Rudyer.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32140</idno>
+            <idno type="STC">Wing C2820</idno>
+            <idno type="STC">ESTC R26011</idno>
+            <idno type="EEBO-CITATION">09316513</idno>
+            <idno type="OCLC">ocm 09316513</idno>
+            <idno type="VID">42720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42720)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1305:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speeches of the Kings Most Excellent Majesty in this great court of Parliament with all the speeches of the right honourable the Lord Digby and the Lord Faukeland and the speeches of Sir Benjamin Rudyer.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>15 [i.e. 13] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes speeches and messages of the King to Parliament from Nov. 3, 1640 to May 11, 1641.  Other speeches mentioned on t.p. are not present.  Latter part of the title beginning "with all the speeches" has been heavily crossed out in this copy, probably by publisher.  Illegible part of title supplied from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42720:1"/>
+            <pb facs="tcp:42720:1" rendition="simple:additions"/>
+            <p>THE Speeches Of the KINGS Moſt excellent Majeſty in this GREAT COVRT Of PARLIAMENT.</p>
+            <gap reason="illegible" extent="4 lines">
+               <desc>〈4 lines〉</desc>
+            </gap>
+            <p>Printed, Anno 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:42720:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:42720:2" rendition="simple:additions"/>
+            <head>His Majeſties firſt Speech in Par<g ref="char:EOLhyphen"/>liament, the third of November, 1640.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THE knowledge I had of the deſires of my Scot<g ref="char:EOLhyphen"/>tiſh Subjects, was the cauſe of my calling the laſt Aſſembly of Parliament, wherein had I been be<g ref="char:EOLhyphen"/>leeved, I ſincerely thinke, that things had not falne out as now We ſee. But it is no wonder that men are ſo ſlow to beleeve that ſo great a ſedition ſhould bee raiſed on ſo little ground. But now my Lords and Gentle<g ref="char:EOLhyphen"/>men, the honour and ſafety of this Kingdome lying ſo neerely at the ſtake, I am reſolved to put my ſelf freely and cleerly on the love and affections of my Engliſh Sub<g ref="char:EOLhyphen"/>jects, as theſe of my Lords that did wait on me at York, very well remember I there declared. Therefore my Lords, <hi>I</hi> ſhall not mention mine own intereſt, or that ſupport
+<hi>I</hi> might juſtly expect from you, till the common ſafety be ſecured; though <hi>I</hi> muſt tell you <hi>I</hi> am not aſha<g ref="char:EOLhyphen"/>med to ſay, thoſe charges <hi>I</hi> have been at, have been meer<g ref="char:EOLhyphen"/>ly for the ſecuring and good of this Kingdome, though the ſucceſſe hath not been anſwerable to my deſires. There<g ref="char:EOLhyphen"/>fore <hi>I</hi> ſhall onely deſire you to conſider the beſt way both for the ſafety and ſecurity of this Kingdome, wherein there are two parts chiefly conſiderable. Firſt, the chaſti<g ref="char:EOLhyphen"/>ſing out of the Rebells. And ſecondly, the other in ſatis<g ref="char:EOLhyphen"/>ying your juſt grievances, wherein <hi>I</hi> ſhall promiſe you to concur ſo heartily and cleerly with you, that all the <pb n="2" facs="tcp:42720:3"/>world may ſee my intentions have ever beene, and ſhall be, to make this a glorious and flouriſhing Kingdome. There are onely two things that <hi>I</hi> ſhall mention to you: Firſt, the one is to tell you that the Loan of money which
+<hi>I</hi> lately had from the City of London, wherin the Lords that waited upon me at Yorke aſſiſted me, will onely maintaine my Army for two months from the beginning of that time it was granted. Now my Lords and Gentle<g ref="char:EOLhyphen"/>men
+<hi>I</hi> leave it to your conſiderations, what diſhonour and miſchiefe it might be, in caſe for want of mony my Army be disbanded, before the Rebels be put out of this Kingdome. Secondly, the ſecuring the calamities the Northern people endure at this time, and ſo long as the treaty is on foot. And in this <hi>I</hi> may ſay not onely they, but all this Kingdome will ſuffer the harm; therefore <hi>J</hi> leave this alſo to your conſideration, for the ordering of theſe great affaires whereof you are to treat at this time. <hi>J</hi> am ſo confident of your love to me, &amp; that yor care is for the honour and ſafety of the Kingdome, that <hi>I</hi> ſhall freely and willingly leave to you where to begin: onely this, that you may the better know the ſtate of all the af<g ref="char:EOLhyphen"/>fairs. <hi>J</hi> have co<g ref="char:cmbAbbrStroke">̄</g>manded my L. Keeper to give you a ſhort and free account of theſe things that have happened in this interim, with this proteſtation, that if this account be not ſatisfactory as it ought to be, <hi>J</hi> ſhall whenſover you deſire, give you a full and perfect account of every parti<g ref="char:EOLhyphen"/>cular. One thing more
+<hi>J</hi> deſire of you, as one of the grea<g ref="char:EOLhyphen"/>teſt meanes to make this a happy Parliament; That you on your parts, as <hi>J</hi> on mine, lay aſide all ſuſpition one of another, as <hi>J</hi> promiſed my Lords at York:
+<hi>Jt</hi> ſhall not be my fault if this be not a happy and good Parliament.</p>
+         </div>
+         <div type="speech">
+            <pb n="3" facs="tcp:42720:3" rendition="simple:additions"/>
+            <head>
+               <hi>His Majeſties ſecond Speech in Parliament, Novem.</hi>
+5. 1640.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>I Do expect that you wil haſtily make relation to the Houſe of Commons of thoſe great affairs for which <hi>I</hi> have called you hither at this time, and for the truſt <hi>I</hi> have repoſed in them, and how freely <hi>I</hi> put my ſelfe on their love and affections at that time; and that you may know the better how to doe ſo, <hi>I</hi> will explain my ſelfe concerning one thing <hi>I</hi> ſpake the laſt day. <hi>I</hi> told you the Rebels muſt be put out of this Kingdome; it's true, <hi>I</hi> muſt needs call them ſo, ſo long as they have an Army that do invade us; &amp; although <hi>I</hi> am under treaty with them, and <hi>I</hi> under my great Seal do call them ſubjects, and ſo they are too, but the ſtate of my affairs in ſhort, is this: it's true, <hi>I</hi> did expect when <hi>I</hi> did will my Lords and great ones at <hi>York</hi> to have given a gracious anſwer to all your grievances; for <hi>I</hi> was in good hope by their wiſedoms &amp; aſſiſtances to have made an end of that bu<g ref="char:EOLhyphen"/>ſineſſe; but <hi>I</hi> muſt tell you, that my ſubjects of
+<hi>Scotland</hi> did ſo delay them, that it was not poſſible to end there: therefore <hi>J</hi> can no wayes blame my Lords that were at
+<hi>Rippon,</hi> that the treaty was not ended, but muſt thanke them for their pain<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; induſtry; and certainly had they as much power as affections, <hi>I</hi> ſhould by that time have brought theſe diſtempers to a happy period; ſo that now the treaty is tranſported from <hi>Rippon</hi> to <hi>London,</hi> where
+<hi>J</hi> ſhall conclude nothing without your knowledge, and <hi>J</hi> doubt not but by your appr<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ation; for <hi>J</hi> do not deſire to have this great work done in a corner, for <hi>J</hi> ſhall lay <pb n="4" facs="tcp:42720:4"/>open all the ſteps to this miſ-underſtanding, and cauſes of the great differences between Me and my Subjects of Scotland. And I doubt not, but by your aſſiſtance to make them know their duty, and alſo by your aſſiſtance to make them return whether they will or no.</p>
+         </div>
+         <div type="speech">
+            <head>His Majeſties Speech to both the Houſes, Ianuary 25.
+1640.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THe Knights, Citizens, Burgeſſes; the principall cauſe of my comming here at this time, is, by rea<g ref="char:EOLhyphen"/>ſon of the ſlow proceedings in Parliament, touching which is a great deale of inconvenience.</p>
+            <p>Therefore I think it very neceſſary to lay before you the ſtate of my affairs as now they ſtand, thereby to ha<g ref="char:EOLhyphen"/>ſten (not interrupt) your proceedings.</p>
+            <p>Firſt, I muſt remember you that there are two Ar<g ref="char:EOLhyphen"/>mies in the Kingdome in a manner maintained by you, the very naming of which, doth more clearly ſhew the inconvenience thereof, then a better tongue then mine can expreſſe.</p>
+            <p>Therefore in the firſt place, I ſhall recommend unto you the quicke diſpatch of that buſineſſe, aſſuring you that it cannot reſt upon me.</p>
+            <p>In the next place I muſt recommend unto you the ſtate of my Navie &amp; Forts; the condition of both which is ſo well known unto you, that I need not tell you the particulars, only thus much, they are the walls and de<g ref="char:EOLhyphen"/>fence of this Kingdome, which if out of order, all men may eaſily judge what incouragement it will be to our <pb n="5" facs="tcp:42720:4" rendition="simple:additions"/>enemies, and what diſheartning to our friends.</p>
+            <p>Laſt of all, (and not of the leaſt to be conſidered) I muſt lay before you the diſtractions that are at this pre<g ref="char:EOLhyphen"/>ſent occaſioned through the cauſe of Parliament; for there are ſome men that more maliciouſly then igno<g ref="char:EOLhyphen"/>rantly, will put no difference between reformation and alteration of government.</p>
+            <p>Hence it commeth that divine Service is irreverent<g ref="char:EOLhyphen"/>ly interrupted, and Petitions in an <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll way given in, nei<g ref="char:EOLhyphen"/>ther diſputed nor denied. But I will enter into no more particulars, but ſhew you a way of remedy, by ſhew<g ref="char:EOLhyphen"/>ing you my cleare intentions, and ſome mark that may hinder this good work.</p>
+            <p>I ſhall willingly and cheerfully concur with you for the reformation of all innovations both in Church and Common wealth, and conſequently that all Courts of Iuſtice may be reformed according to Law. For my in<g ref="char:EOLhyphen"/>tention is clearly to reduce all things to the beſt &amp; pu<g ref="char:EOLhyphen"/>reſt times, as they were in the time of Qu. <hi>Elizabeth.</hi>
+            </p>
+            <p>Moreover, whatſoever part of my revenue ſhall bee found illegal or heavy to my ſubjects, I ſhall be willing to lay down, truſting in their affections. Having thus clearly and ſhortly ſet down my intentions, I wil ſhew you ſome rubs, and muſt needs take notice of ſome very ſtrange (I know not what tearme to give them) Petiti<g ref="char:EOLhyphen"/>ons given in the name of divers Counties, againſt the eſtabliſhed government of the Church, and of the great threatnings againſt the Biſhops, that they will make them to be but a Cipher, or at leaſt taken away.</p>
+            <p>If ſome of them have incroached too much upon the Temporalty (if it be ſo) <hi>I</hi> ſhall not be unwilling theſe things ſhould be redreſſed and reformed, as all other a<g ref="char:EOLhyphen"/>buſes, according to the wiſedome of former times; ſo farre <hi>I</hi> ſhall goe with you, no farther.</p>
+            <p>If upon ſerious debate, you ſhall ſhew, that Biſhops have ſome temporall authority, not ſo neceſſary for the <pb n="6" facs="tcp:42720:5"/>government of the Church, and upholding Epiſcopall juriſdiction,
+<hi>I</hi> ſhall not be unwilling to deſire them to lay it downe; but this muſt not bee underſtood, that <hi>I</hi> ſhall any way conſent that their voyce in Parliamen ſhould be taken away: for in all the times of my pre<g ref="char:EOLhyphen"/>deceſſors ſince the Conqueſt, and before, they have en<g ref="char:EOLhyphen"/>joyed it;
+<hi>I</hi> am bound to maintaine them in it, as one of the fundamentall inſtitutions of this Kingdome.</p>
+            <p>There is one other rock you are on not in ſubſtance but in ſervice; and the forme is ſo eſſentiall, that unleſſe it be reformed, will ſplit you on that rock.</p>
+            <p>There is a Bill lately put in concerning Parliaments. The thing
+<hi>I</hi> like well to have frequent Parliaments, but for Sheriffes and Conſtables to uſe my authority, <hi>I</hi> can no wayes conſent unto.</p>
+            <p>But to ſhew that <hi>I</hi> defire to give you content in ſub<g ref="char:EOLhyphen"/>ſtance as well as in ſhew, that you ſhall have a Bill for doing thereof, ſo that it doe not trench neither againſt my Honour, neither againſt the ancient prerogatives of the Crowns concerning Parliaments, ingeniouſly con<g ref="char:EOLhyphen"/>feſſe, often Parliaments is the fitteſt means to keep correſpondency between Me and my people, that <hi>I</hi> doe ſo much deſire.</p>
+            <p>To conclude, now all that <hi>I</hi> have ſhewn you, the ſtate of my affaires, my owne cleare intentions, and the rockes <hi>I</hi> would have you ſhun.</p>
+            <p>To give you all contentment, you ſhall likewiſe find by theſe Miniſters, <hi>I</hi> have or ſhall have about mee for the effecting of theſe my good intentions, which ſhall redouble the peace of the Kingdome, and content you all. Concerning the conference you ſhall have a direct anſwer on Munday, which ſhall give you ſatisfaction.</p>
+         </div>
+         <div type="speech">
+            <pb n="9" facs="tcp:42720:5" rendition="simple:additions"/>
+            <head>His Majeſties Speech to both Houſes of Parliament in the
+<hi>Lords</hi> Houſe, at the paſſing of the Bill for a Trie<g ref="char:EOLhyphen"/>niall Parliament, the ſixteenth of <hi>November,</hi> 1640.</head>
+            <p>MY Lords, and you the Knights, Citizens, and Burgeſſes of the Houſe of Commons; you may remember when both Houſes were with me at the banquetting Houſe at <hi>Whitehall,</hi> I did de<g ref="char:EOLhyphen"/>clare unto you two rocks I wiſhed you to eſchew, this is the one of them, and of that conſequence, that I think never bill paſſed here in this Houſe of more favour to the Subjects then this is, and if the other Rock bee as happily paſſed over as this ſhall be at this time, I doe not know what you can ask, for ought I can ſee it this time, that I can make any queſtion to yeeld unto: Ther<g ref="char:EOLhyphen"/>fore I mention this to ſhew unto you the ſence that I have of this Bill, and obligation, as I may ſay, that you have to me for it, for hitherto, to ſpeake freely, I have had no great incouragement to doe it; if I ſhould look to the outward face of your actions or proceedings, and not look to the inward intentions of your hearts, I might make queſtion of doing it.</p>
+            <p>Hitherto you have gone on in that which concernes your ſelves to amend, and yet thoſe things that meerly <pb n="10" facs="tcp:42720:6"/>concernes the ſtrength of this Kingdom, neither for the State nor my own particular.</p>
+            <p>This I mention, not to reproach you but to ſhew you the ſtate of things as they are, you have taken the Go<g ref="char:EOLhyphen"/>vernment all in pieces, and I may ſay, it is almoſt off the hinges.</p>
+            <p>A skilfull Watchmaker to make clean his watch, he will take it a ſunder, and when it is put together, it will goe the better, ſo that he leave not foorth not one pin in it.</p>
+            <p>Now as I have done all this on my part, you know what to do on your parts, and I hope you ſhal ſee cleerly that I have performed really what I expreſſed to you at the beginning of this Parliament, of the great truſt I have of your affections to me, and this is the great expreſſion of truſt, that before you do any thing for me, that I do put ſuch a confidence in you.</p>
+         </div>
+         <div type="speech">
+            <pb n="11" facs="tcp:42720:6" rendition="simple:additions"/>
+            <head>
+               <hi>His</hi> Majeſties <hi>Speech to both the Houſes of Parliament,</hi> February <hi>3. 1640.</hi>
+            </head>
+            <p>HAving taken into my ſerious conſideration, the late Remonſtrance made unto me by the Houſe of Parliament, I give you this anſwere.</p>
+            <p>That I take in good part your care of the true Re<g ref="char:EOLhyphen"/>ligion eſtabliſh<g ref="char:punc">▪</g>d in this Kingdome, from which I will ne<g ref="char:EOLhyphen"/>ver d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>part, as alſo for the tenderneſſe of my ſafety, and ſecurity of this State and Government: It is agai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y minde, that Popery or Superſtition ſhould any way increaſe within this Kingdome, and will reſtrain the ſame by put<g ref="char:EOLhyphen"/>ting the Lawes into execution.</p>
+            <p>I am reſolved to provide against the Ieſuits and Papiſts, by ſetting foorth a Proclamation with
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſpeed, comman<g ref="char:EOLhyphen"/>ding them to depart the Kingdome within one month, which if they faile, or ſhall returne, they ſhall be proceeded a<g ref="char:EOLhyphen"/>gainſt according to the Law<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s</p>
+            <p>Concerning <hi>Roſettie:</hi> I give you to underſtand, that the Queene hath alwayes aſſured mee, that to her know<g ref="char:EOLhyphen"/>ledge hee hath no Commiſſion, but onely to entertaine a perſonall correſpondence, betweene her and the Pope, in things requiſite for the exerciſe of her Religion, which is warranted to her by the Articles of Marriage, which
+<pb n="12" facs="tcp:42720:7"/>give her a full Liberty of Conſcience; yet I have per<g ref="char:EOLhyphen"/>ſwaded, that ſince the miſunderstanding of the perſons condition gives offence, ſhee will within a convenient time remove him.</p>
+            <p>Moreover, I will take a ſpeciall care to reſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne my Subjects from reſorting to Maſſe at <hi>Denmark</hi> houſe, Saint <hi>James,</hi> and the Chappel of Ambaſſadors.</p>
+            <p>Laſtly, concerning <hi>John Goodman</hi> the Prieſt, I will let you know the reaſon why I reprived him, that as I am enformed, neither Queene <hi>Elizabeth,</hi> nor my Father did ever avow, that any Prieſt in their times was executed meerely for Religion, which to mee ſeemes to be this parti<g ref="char:EOLhyphen"/>cular caſe, yet ſeeing that I am preſſed by both Houſes, to give way to his, becauſe I will avoyd the inconveniency of giving ſo great diſcontent to my People, as I conceive this Mercy may Produce, therefore I doe remit this Particular Cauſe to both the Houſes: But I deſire them to take into their Conſideration, the inconveniences (as I conceive) may upon this occaſion fall upon my Subjects and other Proteſtants abroad, eſpecially ſince it may ſeeme to other States to be a ſeverity, which Surpriſe having thus repreſen<g ref="char:EOLhyphen"/>ted, I thinke my ſelfe diſcharged from all ill conſequence that may enſue upon the exe<g ref="char:EOLhyphen"/>cution of this Perſon.</p>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:42720:7" rendition="simple:additions"/>
+            <head>
+               <hi>His</hi> Majeſties <hi>Letter to the Lords on the behalfe of the Earle of</hi> Strafford, <hi>ſent by the PRINCE.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lords,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Did yeſterday ſatisfie the Juſtice of the Kingdome by paſſing of the Bill of Attainder againſt the Earle of
+<hi>Strafford;</hi> but mercy being as inherent, and inſepara<g ref="char:EOLhyphen"/>ble to a King as Iustice. I deſire at this time in ſome meaſure to ſhew, that likewiſe by ſuffering that unfortu<g ref="char:EOLhyphen"/>nate man to fulfill the naturall courſe of his life in a cloſe impriſonment; yet ſo, that if ever he make the leaſt offer to eſcape, or offer directly, or indirectly to meddle in any ſort of Publique buſineſſe; eſpecially with mee, either by Meſſage, or Letter, it ſhall coſt him his life without further Proceſſe. This, if it may be done without the diſ<g ref="char:EOLhyphen"/>contentment of if People, will bee an unſpeakable con<g ref="char:EOLhyphen"/>tentment to me.</p>
+                  <p>To which end, as in the firſt place, I by this Letter doe earneſtly deſire your approbation, and to endeare it the more, have choſen him to carry it, that of all your Houſe is moſt deare to me. So I deſire that by a conference, you will endeavour to give the Houſe of Commons content<g ref="char:EOLhyphen"/>ment: Likewiſe aſſuring you, that the excuſe of mercy is no more pleaſing to mee, then to ſee both Houſes of Parliament conſent for my ſake, that I ſhould moderate the ſeverity of the Law, in ſo important a caſe.</p>
+                  <pb n="14" facs="tcp:42720:8"/>
+                  <p>J will not ſay that your complying with mee, in this my intended mercy, ſhall make mee more willing, but certainly 'twill make me more cheerfull in granting your juſt grievances. But if no leſſe then his life can ſa<g ref="char:EOLhyphen"/>tisfi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> People, I muſt ſay <hi>fiat juſtitia.</hi> Thus againe recommending the conſideration of my intentions to you, I reſt.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Whitehall</hi>
+                        <date>
+                           <hi>the 11. of</hi> May, <hi>1641.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Your unalterable and affectionate friend. CHARLES, R.</signed> 
+                  </closer>
+                  <postscript>
+                     <p>If hee muſt dye, it were charity to Reprieve him till Satterday.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <div type="response">
+               <head>May <hi>11. 1641.</hi>
+               </head>
+               <p>THis Letter all written with the Kings own hand, the Peeres this day received in Parliament, delive<g ref="char:EOLhyphen"/>red by the hand of the Prince. It was twice read in the Houſe, and after ſerious and ſad conſideration, the Houſe reſolved preſently to ſend <hi>12.</hi> of the Peers Meſſengers to the King; humbly to ſignifie, that neither of the two in<g ref="char:EOLhyphen"/>tentions expreſſed in the Letter, could with duty in them, or without danger to himſelfe, his dearest Conſort, the Queen, and all the young Princes their Children, poſſi<g ref="char:EOLhyphen"/>bly bee adviſed: With all which being done accordingly, and the reaſons ſhewed to his Majeſty, Hee ſuffered no more words to come from them, but oft of the fulneſſe <pb n="15" facs="tcp:42720:8" rendition="simple:additions"/>of his heart to the obſervance of Iuſtice, and for the con<g ref="char:EOLhyphen"/>tentment of his people, told them, that what he intended by his Letter was with an (if) if it may be done without diſcontentment of his people; if that cannot bee, I ſay againe the ſame that J writ, <hi>fiat juſtitia.</hi> My other in<g ref="char:EOLhyphen"/>tention proceeding out of charity for a few dayes reſpite, was upon certaine information that His Eſtate was ſo di<g ref="char:EOLhyphen"/>ſtracted, that it neceſſarily required ſome few dayes for ſettlement thereof.</p>
+               <p>Whereunto the Lords anſwered, their purpoſe was to be Suitors to his Majeſty for favour to be ſhewed to his innocent Children; and it himſelfe had made any provi<g ref="char:EOLhyphen"/>ſion for them, that the ſame might hold.</p>
+               <p>This was well liking to his Majeſty, who thereupon departed from the Lords; at His Majeſties parting they offered up into his hand the Letter it ſelfe which he had ſent; but Hee was pleaſed to ſay, my Lords, what I have written to you, I
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> content it be Regiſtred by you in your Houſe. In it you may ſee my mind, I hope you will uſe it to my honour.</p>
+               <p>This, upon returne of the Lords from the King, was preſently reported to the Houſe by the Lord Privy Seale, and ordered, that theſe Lines ſhould goe out with the Kings Letter, if any Copy of the Letter were diſperſed.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
